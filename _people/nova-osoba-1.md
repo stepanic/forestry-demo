@@ -8,6 +8,5 @@ sub_heading: sdfsdf
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
