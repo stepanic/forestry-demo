@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/novi-post-1.md
 - _posts/ja-sam-novi-naslov.md
