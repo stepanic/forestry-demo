@@ -36,3 +36,5 @@ fields:
   type: text
   hidden: true
   default: person
+pages:
+- _people/nova-osoba-1.md
